@@ -41,7 +41,7 @@ The dataset used for this project can be found [here](https://www.kaggle.com/cod
 ## Project Structure   
 - [Clustering_CreditCard.ipynb](./Clustering_CreditCard.ipynb)  
 - [LICENSE](./LICENSE)  
-- [CC GENERAL.csv](./CC GENERAL.csv)  
+- [CC GENERAL.csv](./CC-GENERAL.csv)  
 - [README.md](./README.md)  
 
 ### Data Preprocessing  
